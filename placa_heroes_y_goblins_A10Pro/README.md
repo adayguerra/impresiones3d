@@ -1,6 +1,6 @@
 # Placa héroes y goblins — Geeetech A10 Pro (boquilla 0,2 mm)
 
-Once figuras con peana, distribuidas para imprimirse en una sola tirada sobre la cama de 220 × 220 mm.
+Once figuras con peana, distribuidas para imprimirse en una sola tirada sobre la cama de 220 × 220 mm. Todas a la misma escala, con tamaños relativos coherentes: Durmont y el Bardo, enanos, quedan por debajo de los humanos (altura máxima de la placa: 41,7 mm).
 
 - `PLACA_A10Pro_11_figuras.3mf`: placa completa; cada figura es un objeto independiente.
 - `stl_individuales/`: cada figura con peana, por separado.
@@ -8,7 +8,7 @@ Once figuras con peana, distribuidas para imprimirse en una sola tirada sobre la
 
 | Figura | Escala | Peana | Alto total |
 |---|---|---|---|
-| Durmont (enano con hacha) | ×2 | 50,8 mm (original escalada) | 80,8 mm |
+| Durmont (enano bárbaro con hacha) | ×1 | 25,4 mm (original) | 40,4 mm |
 | Bárbaro | ×1 | 32 mm × 3 mm (nueva) | 41,0 mm |
 | Mago humano | ×1 | 32 mm × 3 mm (nueva) | 41,6 mm |
 | Clérigo | ×1 | 25 mm × 3 mm (nueva) | 41,7 mm |
