@@ -1,5 +1,7 @@
 # Placa héroes y goblins ×1,5 — máximo detalle con boquilla de 0,2 mm
 
+> **Forma recomendada de imprimirlas: por bloques.** La carpeta [`bloques/`](bloques/) reparte estas 11 figuras en 5 tiradas de 8 a 18,5 h (unas 72 h en total), en línea con el eje de la cama, con G-code listo y perfil optimizado. La placa única de este directorio se conserva como referencia: con el perfil de 0,06 mm de más abajo es una sola tirada de varios días.
+
 Las mismas 11 figuras de la carpeta superior, todas escaladas ×1,5 (peanas incluidas) para acercarse al detalle de resina. Las proporciones relativas se mantienen. Caben en una sola placa de 220 × 220 mm (ocupan 185 × 156 mm); la más alta mide 62,6 mm. Cada figura está girada sobre Z para ocupar menos cama.
 
 | Figura | Alto | Peana |
